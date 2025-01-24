@@ -1,1 +1,1 @@
-Web-ohjelmointi 1 kurssin tehtävät löytyvät tehtävien numeroiden mukaisista kansioista.
+Web-ohjelmointi 1 - Tehtävät löytyvät tehtävien numeroiden mukaisista kansioista.
